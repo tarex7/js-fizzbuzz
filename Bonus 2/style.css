@@ -1,7 +1,5 @@
 body {
-    background-color: #083b4c;
-
-
+  background-color: #083b4c;
 }
 
 .box {
@@ -32,7 +30,6 @@ body {
 
 .fizzbuzz {
   background-color: rgb(255, 0, 136);
-  
 }
 
 .debug {
@@ -42,14 +39,15 @@ body {
 #numbers {
   background-color: #083b4c;
 }
+
 #fizz {
-    color: #3ed60b;
+  color: #3ed60b;
 }
 
 #buzz {
-    color: #ecf314;
+  color: #ecf314;
 }
 
 #dom {
-    color: rgb(255, 0, 136);
+  color: rgb(255, 0, 136);
 }
