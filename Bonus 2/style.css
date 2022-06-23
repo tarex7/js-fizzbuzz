@@ -1,0 +1,55 @@
+body {
+    background-color: #083b4c;
+
+
+}
+
+.box {
+  background-color: #1389b2;
+  width: 110px;
+  height: 110px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.fizz {
+  background-color: #3ed60b;
+  border: 10px solid #ecf314;
+  color: #333;
+}
+
+.buzz {
+  background-color: #ecf314;
+  border: 10px solid rgb(255, 0, 136);
+  color: rgb(255, 0, 136);
+}
+
+.fizzbuzz {
+  background-color: rgb(255, 0, 136);
+  
+}
+
+.debug {
+  border: 1px red solid;
+}
+
+#numbers {
+  background-color: #083b4c;
+}
+#fizz {
+    color: #3ed60b;
+}
+
+#buzz {
+    color: #ecf314;
+}
+
+#dom {
+    color: rgb(255, 0, 136);
+}
